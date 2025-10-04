@@ -210,7 +210,6 @@ __marimo__/
 venv/
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
 
 # Optional: dataset folder if too large
 # data/
